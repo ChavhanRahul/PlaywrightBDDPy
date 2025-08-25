@@ -1,0 +1,22 @@
+{
+  "name": "playwrightbddpy",
+  "version": "1.0.0",
+  "description": "Playwright Project with BDD Cucumber and Python",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChavhanRahul/PlaywrightBDDPy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChavhanRahul/PlaywrightBDDPy/issues"
+  },
+  "homepage": "https://github.com/ChavhanRahul/PlaywrightBDDPy#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
